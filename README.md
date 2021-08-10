@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # 下載方法
 step1.[點擊這裡](https://github.com/ToastFriends/EXE/archive/refs/heads/ToastDictionary.zip)來下載這個branch，檔名為EXE-ToastDictionary.zip<br>
 step2.解壓縮EXE-ToastDictionary.zip<br>
